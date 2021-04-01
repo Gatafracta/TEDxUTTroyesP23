@@ -38,11 +38,10 @@ body {
 #nav-list a:hover{
     color: #e62b1e;
 }
-
 /* HomePage */
 header {
     height: 40em;
-    background-image: url("src/scenem5001.JPG");
+    background-image: url(".JPG");
     background-size: cover;
     background-position-y: -15em;
     background-position-x: center;
