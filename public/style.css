@@ -4,7 +4,7 @@
         height: 50%!important;
     }
     header {
-        height: 50%!important;
+        display: none;
     }
 
     #title-speakers h1, #title-team h1, #title-extrait h1{
