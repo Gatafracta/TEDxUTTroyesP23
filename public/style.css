@@ -42,7 +42,7 @@ body {
 /* HomePage */
 header {
     height: 40em;
-    background-image: url("");
+    background-image: url("src/scenem500.JPG");
     background-size: cover;
     background-position-y: -15em;
     background-position-x: center;
